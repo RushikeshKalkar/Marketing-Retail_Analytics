@@ -11,16 +11,19 @@ Your job is to use your magical data science skills to provide them with suitabl
 -Contents of the presentation
 -Problem statement
 -About Data (Info, Shape, Summary Stats, your assumptions about data)
+
 ### Exploratory Analysis and Inferences
 -Univariate, Bivariate, and multivariate analysis using data visualization
 -Weekly, Monthly, Quarterly, Yearly Trends in Sales
 -Sales Across different Categories of different features in the given data
 -Summarize the inferences from the above analysis
+
 ### Customer Segmentation using RFM analysis (make 4 segments)
 -What is RFM?
 -What all parameters used and assumptions made
 -Output table head 
 -When KNIME used, Workflow image to be put
+
 ### Inferences from RFM Analysis and identified segments
 -Who are your best customers? (give at least 5)
 -Which customers are on the verge of churning? (give at least 5)
