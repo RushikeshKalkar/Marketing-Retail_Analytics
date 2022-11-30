@@ -3,7 +3,8 @@
 This project aims to find the underlying buying patterns of the customers of an automobile part manufacturer 
 based on the past 3 years of the Company's transaction data and hence recommend customized marketing strategies for different segments of customers.
 
-## KNIME Workflow image- ![image](https://user-images.githubusercontent.com/105435209/204871791-47cf8e43-ae17-4c26-96ad-2b92ae8edc1f.png)
+## KNIME Workflow image- 
+![image](https://user-images.githubusercontent.com/105435209/204872793-3e8c86e1-0f32-4e4d-bf74-88ae2af65cb3.png)
 
 
 ## Tableau Visualization Link- 
