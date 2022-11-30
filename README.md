@@ -10,6 +10,8 @@ based on the past 3 years of the Company's transaction data and hence recommend 
 ## Tableau Visualization Link- 
 https://public.tableau.com/app/profile/rushikesh.sunil.kalkar/viz/Sales_MRA_EDA/InactiveandChurnedLostCustomers
 
+### Use the "Customer Segment filter" at the Top-right corner of the dashboard to visualize different segments
+
 
 
 ## Problem Statement:
@@ -38,3 +40,5 @@ Your job is to use your magical data science skills to provide them with suitabl
 -Which customers are on the verge of churning? (give at least 5)
 -Who are your lost customers? (give at least 5)
 -Who are your loyal customers? (give at least 5)
+
+### For complete insights refer to the ppt attached
