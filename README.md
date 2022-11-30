@@ -3,8 +3,8 @@
 This project aims to find the underlying buying patterns of the customers of an automobile part manufacturer 
 based on the past 3 years of the Company's transaction data and hence recommend customized marketing strategies for different segments of customers.
 
-## KNIME Workflow image- 
-file:///G:/RK/PGP-DSBA/10.1%20MRA(Marketing%20and%20Retail)/KNIME_MRA_Image.svg
+## KNIME Workflow image- ![image](https://user-images.githubusercontent.com/105435209/204871791-47cf8e43-ae17-4c26-96ad-2b92ae8edc1f.png)
+
 
 ## Tableau Visualization Link- 
 https://public.tableau.com/app/profile/rushikesh.sunil.kalkar/viz/Sales_MRA_EDA/InactiveandChurnedLostCustomers
